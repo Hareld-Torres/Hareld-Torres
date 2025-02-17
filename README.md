@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 🧑‍🦰 I am Hareld Torres.
 
@@ -8,3 +8,4 @@
 - 📫 How to reach me: torreshareld@gmail.com
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: 🏋️ Programming is like working out—it’s tough at first, but over time, you get stronger.
+
